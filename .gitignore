@@ -5,6 +5,9 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+1st Version/
+.env.example
+LPH.env.txt
 
 # Python
 __pycache__/
