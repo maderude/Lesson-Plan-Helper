@@ -1,4 +1,4 @@
-# Lesson Plan Helper — Standards-Aligned Multi-Agent Planning Workflow
+# Lesson Plan Helper
 
 **Track:** Agents for Good
 
