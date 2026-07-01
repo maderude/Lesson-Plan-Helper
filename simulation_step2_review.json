@@ -1,0 +1,29 @@
+{
+  "is_approved": false,
+  "criteria": [
+    {
+      "criterion": "Standards Alignment",
+      "passed": true,
+      "reason": ""
+    },
+    {
+      "criterion": "Objective-to-Assessment Match",
+      "passed": true,
+      "reason": ""
+    },
+    {
+      "criterion": "Activity-to-Objective Match",
+      "passed": false,
+      "reason": "The activities primarily focus on identifying and using verbs and nouns rather than demonstrating command of the conventions of standard English grammar and usage in a broader context."
+    },
+    {
+      "criterion": "Pacing Realism",
+      "passed": true,
+      "reason": "Total pacing: 40 min (requested: 45 min). Breakdown: Hook: 5min, Direct Instruction: 10min, Guided Practice: 10min, Independent Practice: 10min, Assessment: 5min. Within \u00b15 min tolerance."
+    }
+  ],
+  "failed_criteria": [
+    "Activity-to-Objective Match"
+  ],
+  "specific_feedback": "The lesson activities do not fully align with the objective of demonstrating command of grammar conventions, as they focus on identification rather than application in varied contexts."
+}

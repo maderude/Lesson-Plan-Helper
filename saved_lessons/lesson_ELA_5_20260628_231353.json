@@ -1,0 +1,61 @@
+{
+  "saved_at": "2026-06-28T23:13:53.496161",
+  "form_inputs": {
+    "subject": "ELA",
+    "grade": "5",
+    "state": "Florida",
+    "topic": "languages and dialects",
+    "duration": "45 minutes",
+    "lesson_date": "2026-06-28",
+    "accommodations": "",
+    "materials": "",
+    "syllabus_text": "",
+    "continuous_skills": ""
+  },
+  "final_state": {
+    "lesson_date": "2026-06-28",
+    "subject": "ELA",
+    "grade": "5",
+    "duration": "45 minutes",
+    "topic": "languages and dialects",
+    "state": "Florida",
+    "syllabus_text": "",
+    "continuous_skills": "",
+    "materials": "",
+    "accommodations": "",
+    "selected_standard_code": "ELA.5.R.1.1; ELA.5.R.1.2; ELA.5.R.1.3; ELA.5.R.2.1",
+    "selected_standard_text": "- ELA.5.R.1.1: Analyze how setting, events, conflict, and characterization contribute to the plot in a literary text.  For informational texts, analyze the purpose and key details the author uses to support claims.\n- ELA.5.R.1.2: Explain how relevant details support the central idea or theme, identified with significant textual evidence.\n- ELA.5.R.1.3: Analyze the relationship between two or more individuals, events, or ideas in an informational text, explaining how the relationship is developed.\n- ELA.5.R.2.1: Interpret figurative language and determine the meaning of general academic and domain-specific words and phrases used in grade-level content.",
+    "standard_approved": true,
+    "draft_lesson_plan": "## Objective\nAnalyze how setting, events, conflict, and characterization contribute to the plot in a literary text.\n\n## Essential Question\nHow do languages and dialects shape the characters and plot in a story?\n\n## Instructional Materials\n- Excerpts from a literary text featuring different dialects (e.g., \"The Watsons Go to Birmingham—1963\" by Christopher Paul Curtis)\n- Whiteboard and markers\n- Chart paper and markers\n- Copies of a handout with excerpts and questions\n- Audio clips of different dialects (optional)\n\n## Teaching Strategies\n- Think-Pair-Share: Students discuss how dialects affect storytelling.\n- Graphic Organizer: Students use a chart to break down how setting, events, and characterization are influenced by language.\n- Modeling: The teacher demonstrates analyzing dialects and their impact on the plot.\n\n## Hook (5 min)\nPlay short audio clips of various dialects. Ask students to guess where they might be from and discuss how these dialects might influence a character's personality or actions in a story.\n\n## Direct Instruction (10 min)\nExplain how language and dialects can influence a story's setting, character development, and plot. Use a specific example from \"The Watsons Go to Birmingham—1963\" to demonstrate how the author uses dialect to enhance characterization and setting. Highlight key passages that reflect these elements.\n\n## Guided Practice (10 min)\nIn pairs, students will read a selected excerpt and use a graphic organizer to identify how setting, events, conflict, and characterization contribute to the plot. The teacher will circulate to support and prompt deeper analysis, ensuring students connect plot elements to the central theme.\n\n## Independent Practice (10 min)\nIndividually, students will select another excerpt from the handout and write a short paragraph analyzing how setting, events, conflict, and characterization contribute to the plot, using evidence to substantiate their analysis.\n\n## Assessment (5 min)\nExplain how setting, events, conflict, and characterization contribute to the plot in the text.\n\n## Assignments\n- Completed graphic organizer from Guided Practice\n- Paragraph analysis from Independent Practice\n- Written response to the assessment question\n\n## Homework Notes\n- Ask a family member about any dialects or languages spoken in your home and how they influence your family stories.\n- Write a short paragraph reflecting on any new insights.\n\n## Differentiation\n- Provide audio versions of the text for auditory learners.\n- Offer sentence starters for students who need additional writing support.\n- Allow advanced students to explore a more complex text or additional excerpts.\n\n## Teacher Reflection\n- Did students effectively analyze how dialect contributes to the plot and character development?\n- How did the use of audio clips enhance student engagement and understanding?\n- What adjustments could be made for students who struggled with the concept?",
+    "review_passed": false,
+    "review_feedback": [
+      {
+        "criterion": "Standards Alignment",
+        "passed": true,
+        "score": 100,
+        "reason": ""
+      },
+      {
+        "criterion": "Objective-to-Assessment Match",
+        "passed": true,
+        "score": 100,
+        "reason": ""
+      },
+      {
+        "criterion": "Activity-to-Objective Match",
+        "passed": false,
+        "score": 0,
+        "reason": "The primary tasks in Guided Practice and Independent Practice require students to analyze elements of plot but do not explicitly require them to analyze how dialect influences these elements, which is a key aspect of the objective."
+      },
+      {
+        "criterion": "Pacing Realism",
+        "passed": true,
+        "score": 100,
+        "reason": "Total pacing: 40 min (requested: 45 min). Breakdown: Hook: 5min, Direct Instruction: 10min, Guided Practice: 10min, Independent Practice: 10min, Assessment: 5min. Within ±5 min tolerance."
+      }
+    ],
+    "revision_count": 3,
+    "max_revisions": 3,
+    "workflow_status": "running"
+  }
+}

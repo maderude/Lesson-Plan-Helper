@@ -1,0 +1,61 @@
+{
+  "saved_at": "2026-06-28T21:07:44.920309",
+  "form_inputs": {
+    "subject": "ELA",
+    "grade": "5",
+    "state": "Florida",
+    "topic": "pOETRY",
+    "duration": "45 minutes",
+    "lesson_date": "2026-06-28",
+    "accommodations": "",
+    "materials": "",
+    "syllabus_text": "",
+    "continuous_skills": ""
+  },
+  "final_state": {
+    "lesson_date": "2026-06-28",
+    "subject": "ELA",
+    "grade": "5",
+    "duration": "45 minutes",
+    "topic": "pOETRY",
+    "state": "Florida",
+    "syllabus_text": "",
+    "continuous_skills": "",
+    "materials": "",
+    "accommodations": "",
+    "selected_standard_code": "ELA.5.R.1.1",
+    "selected_standard_text": "- ELA.5.R.1.1: Analyze how setting, events, conflict, and characterization contribute to the plot in a literary text.  For informational texts, analyze the purpose and key details the author uses to support claims.",
+    "standard_approved": true,
+    "draft_lesson_plan": "## Objective\nStudents will analyze how setting, events, conflict, and characterization contribute to the plot in a poem.\n\n## Essential Question\nHow do the elements of setting, events, conflict, and characterization shape the story within a poem?\n\n## Instructional Materials\n- Copies of the poem \"The Road Not Taken\" by Robert Frost\n- Whiteboard and markers\n- Chart paper and markers\n- Projector and screen\n- Highlighters\n\n## Teaching Strategies\n- Think-Pair-Share: Students will discuss poem elements with a partner to deepen understanding.\n- Graphic Organizer: Students will use a chart to break down the elements of the poem.\n- Modeling: Teacher demonstrates analysis of poem elements with examples on the board.\n\n## Hook (5 min)\nBegin with a brief class discussion on favorite stories and what makes them memorable. Ask students to consider if poems can tell stories and why.\n\n## Direct Instruction (10 min)\nIntroduce the poem \"The Road Not Taken.\" Read it aloud once, projecting it on the screen. Highlight how poems can contain elements of a story, such as setting and characterization. Model analyzing the setting by identifying the \"yellow wood\" and discuss how it sets the scene for the events.\n\n## Guided Practice (10 min)\nIn pairs, students will read the poem again and use a graphic organizer to analyze how the setting and character decisions contribute to the plot. Encourage students to discuss the significance of the setting and each decision, and how they affect the overall story's progression. The teacher circulates to provide support and guidance.\n\n## Independent Practice (10 min)\nStudents will individually analyze how the events and conflicts in the poem contribute to the plot. They will write a short paragraph explaining how these elements drive the narrative forward, using evidence from the text. Encourage students to delve into the impact of events and conflicts on the poem's progression and how they shape the narrative.\n\n## Assessment (5 min)\nWrite one paragraph analyzing how the setting and conflict in \"The Road Not Taken\" contribute to its plot. Provide specific examples from the poem.\n\n## Assignments\n- Completed graphic organizer with poem elements\n- One-paragraph analysis of the poem's setting and conflict\n\n## Homework Notes\n- Read a poem of your choice and identify its setting and main conflict. Be prepared to discuss your findings in the next class.\n\n## Differentiation\n- Provide sentence starters for students needing support in writing.\n- Use visuals to aid understanding of poem elements.\n- Offer an audio version of the poem for auditory learners.\n\n## Teacher Reflection\n- Did students successfully identify and analyze the poem's elements?\n- How did the use of a graphic organizer support student learning?\n- What adjustments might be needed to improve engagement and understanding?",
+    "review_passed": false,
+    "review_feedback": [
+      {
+        "criterion": "Standards Alignment",
+        "passed": true,
+        "score": 100,
+        "reason": ""
+      },
+      {
+        "criterion": "Objective-to-Assessment Match",
+        "passed": true,
+        "score": 100,
+        "reason": ""
+      },
+      {
+        "criterion": "Activity-to-Objective Match",
+        "passed": false,
+        "score": 0,
+        "reason": "The primary tasks in the Guided Practice and Independent Practice activities focus on analyzing setting and conflict, but do not explicitly require students to analyze characterization, which is also a key component of the objective."
+      },
+      {
+        "criterion": "Pacing Realism",
+        "passed": true,
+        "score": 100,
+        "reason": "Total pacing: 40 min (requested: 45 min). Breakdown: Hook: 5min, Direct Instruction: 10min, Guided Practice: 10min, Independent Practice: 10min, Assessment: 5min. Within ±5 min tolerance."
+      }
+    ],
+    "revision_count": 3,
+    "max_revisions": 3,
+    "workflow_status": "running"
+  }
+}

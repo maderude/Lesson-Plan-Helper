@@ -1,0 +1,278 @@
+{
+  "simulation_mode": "hybrid-real",
+  "inputs": {
+    "subject": "ELA",
+    "grade": "5",
+    "topic": "Explain central idea and details",
+    "state": "Florida",
+    "duration": "45 minutes",
+    "lesson_date": "2026-06-21",
+    "accommodations": "Provide graphic organizers for struggling students."
+  },
+  "selected_standard": {
+    "code": "ELA.5.R.1.2",
+    "text": "Explain how relevant details support the central idea or theme, identified with significant textual evidence."
+  },
+  "execution_sequence": [
+    "intake_node",
+    "discovery_node",
+    "__interrupt__",
+    "confirmation_node",
+    "planning_node",
+    "review_node",
+    "rewrite_node",
+    "review_node",
+    "rewrite_node",
+    "review_node",
+    "rewrite_node",
+    "review_node",
+    "auto_tweak_node",
+    "review_node"
+  ],
+  "revision_count": 4,
+  "trace": [
+    {
+      "stage": "pre-confirmation",
+      "node": "intake_node",
+      "update": "None"
+    },
+    {
+      "stage": "pre-confirmation",
+      "node": "discovery_node",
+      "update": "None"
+    },
+    {
+      "stage": "pre-confirmation",
+      "node": "__interrupt__",
+      "update": [
+        {
+          "value": "Confirm standards selection"
+        }
+      ]
+    },
+    {
+      "stage": "post-confirmation",
+      "node": "confirmation_node",
+      "update": {
+        "standard_approved": true,
+        "selected_standard_code": "ELA.5.R.1.2",
+        "selected_standard_text": "Explain how relevant details support the central idea or theme, identified with significant textual evidence."
+      }
+    },
+    {
+      "stage": "post-confirmation",
+      "node": "planning_node",
+      "update": {
+        "draft_lesson_plan": "# Lesson Plan: Florida Central Idea Analysis\n\n**Date:** 2026-06-21\n**Grade:** 5 | **Subject:** ELA | **Duration:** 45 minutes\n**Standard:** ELA.5.R.1.2 — Explain how relevant details support the central idea or theme, identified with significant textual evidence.\n\n## Essential Question\nHow do relevant details support the central idea of a text?\n\n## Objective\nStudents will explain how relevant details support the central idea.\n\n## Instructional Materials\n- Short fable\n- Slide deck\n- Informational passages\n\n## Teaching Strategies\n- Direct instruction\n- Partner work\n- Independent practice\n\n## Hook (15 min)\nAn introductory activity where the teacher reads a short fable and students identify details.\n\n## Direct Instruction (30 min)\nTeacher presents a slide deck on central ideas and details.\n\n## Guided Practice (35 min)\nStudents work in pairs to annotate two informational passages.\n\n## Independent Practice (30 min)\nStudents write a short paragraph explaining the central idea of a third passage.\n\n## Assessment (15 min)\nExit ticket where students match details to central ideas.\n\n## Assignments\n- In-class paragraph\n\n## Homework Notes\n- Read for 20 minutes\n\n## Differentiation\nProvide graphic organizers for struggling students.\n\n## Teacher Reflection\nWhat worked?\n"
+      }
+    },
+    {
+      "stage": "post-confirmation",
+      "node": "review_node",
+      "update": {
+        "review_passed": false,
+        "review_feedback": [
+          {
+            "criterion": "Standards Alignment",
+            "passed": true,
+            "score": 100,
+            "reason": ""
+          },
+          {
+            "criterion": "Objective-to-Assessment Match",
+            "passed": true,
+            "score": 100,
+            "reason": ""
+          },
+          {
+            "criterion": "Activity-to-Objective Match",
+            "passed": false,
+            "score": 0,
+            "reason": "The Guided Practice activity does not directly support the objective of explaining how details support the central idea, as it focuses on annotating passages rather than explaining."
+          },
+          {
+            "criterion": "Pacing Realism",
+            "passed": false,
+            "score": 0,
+            "reason": "The total time for Guided Practice (35 min) and Independent Practice (30 min) exceeds the total lesson duration of 45 minutes."
+          }
+        ],
+        "final_lesson_plan": "",
+        "workflow_status": "running"
+      }
+    },
+    {
+      "stage": "post-confirmation",
+      "node": "rewrite_node",
+      "update": {
+        "draft_lesson_plan": "# Lesson Plan: Florida Central Idea Analysis\n\n**Date:** 2026-06-21\n**Grade:** 5 | **Subject:** ELA | **Duration:** 45 minutes\n**Standard:** ELA.5.R.1.2 — Explain how relevant details support the central idea or theme, identified with significant textual evidence.\n\n## Essential Question\nHow do relevant details support the central idea of a text?\n\n## Objective\nStudents will explain how relevant details support the central idea.\n\n## Instructional Materials\n- Short fable\n- Slide deck\n- Informational passages\n\n## Teaching Strategies\n- Direct instruction\n- Partner work\n- Independent practice\n\n## Hook (15 min)\nAn introductory activity where the teacher reads a short fable and students identify details.\n\n## Direct Instruction (30 min)\nTeacher presents a slide deck on central ideas and details.\n\n## Guided Practice (15 min)\nStudents work in pairs to explain how specific details in two informational passages support the central idea. Each pair will discuss and write down their explanations, focusing on the connection between details and the central theme.\n\n## Independent Practice (15 min)\nStudents write a short paragraph explaining how relevant details support the central idea of a third passage, using textual evidence to support their explanation.\n\n## Assessment (15 min)\nExit ticket where students match details to central ideas.\n\n## Assignments\n- In-class paragraph\n\n## Homework Notes\n- Read for 20 minutes\n\n## Differentiation\nProvide graphic organizers for struggling students.\n\n## Teacher Reflection\nWhat worked?",
+        "revision_count": 1
+      }
+    },
+    {
+      "stage": "post-confirmation",
+      "node": "review_node",
+      "update": {
+        "review_passed": false,
+        "review_feedback": [
+          {
+            "criterion": "Standards Alignment",
+            "passed": true,
+            "score": 100,
+            "reason": ""
+          },
+          {
+            "criterion": "Objective-to-Assessment Match",
+            "passed": true,
+            "score": 100,
+            "reason": ""
+          },
+          {
+            "criterion": "Activity-to-Objective Match",
+            "passed": false,
+            "score": 0,
+            "reason": "The Independent Practice does not provide sufficient opportunities for students to explain how details support the central idea as it focuses solely on writing a paragraph without a clear connection to the assessment format."
+          },
+          {
+            "criterion": "Pacing Realism",
+            "passed": true,
+            "score": 100,
+            "reason": ""
+          }
+        ],
+        "final_lesson_plan": "",
+        "workflow_status": "running"
+      }
+    },
+    {
+      "stage": "post-confirmation",
+      "node": "rewrite_node",
+      "update": {
+        "draft_lesson_plan": "# Lesson Plan: Florida Central Idea Analysis\n\n**Date:** 2026-06-21\n**Grade:** 5 | **Subject:** ELA | **Duration:** 45 minutes\n**Standard:** ELA.5.R.1.2 — Explain how relevant details support the central idea or theme, identified with significant textual evidence.\n\n## Essential Question\nHow do relevant details support the central idea of a text?\n\n## Objective\nStudents will explain how relevant details support the central idea.\n\n## Instructional Materials\n- Short fable\n- Slide deck\n- Informational passages\n\n## Teaching Strategies\n- Direct instruction\n- Partner work\n- Independent practice\n\n## Hook (15 min)\nAn introductory activity where the teacher reads a short fable and students identify details.\n\n## Direct Instruction (30 min)\nTeacher presents a slide deck on central ideas and details.\n\n## Guided Practice (15 min)\nStudents work in pairs to explain how specific details in two informational passages support the central idea. Each pair will discuss and write down their explanations, focusing on the connection between details and the central theme.\n\n## Independent Practice (15 min)\nStudents will read a third passage and create a graphic organizer that connects relevant details to the central idea. They will then write a short paragraph explaining these connections, using textual evidence to support their explanation. This activity directly aligns with the assessment format to ensure students are prepared to demonstrate their understanding.\n\n## Assessment (15 min)\nExit ticket where students match details to central ideas.\n\n## Assignments\n- In-class paragraph\n\n## Homework Notes\n- Read for 20 minutes\n\n## Differentiation\nProvide graphic organizers for struggling students.\n\n## Teacher Reflection\nWhat worked?",
+        "revision_count": 2
+      }
+    },
+    {
+      "stage": "post-confirmation",
+      "node": "review_node",
+      "update": {
+        "review_passed": false,
+        "review_feedback": [
+          {
+            "criterion": "Standards Alignment",
+            "passed": true,
+            "score": 100,
+            "reason": ""
+          },
+          {
+            "criterion": "Objective-to-Assessment Match",
+            "passed": true,
+            "score": 100,
+            "reason": ""
+          },
+          {
+            "criterion": "Activity-to-Objective Match",
+            "passed": false,
+            "score": 0,
+            "reason": "The Independent Practice requires students to create a graphic organizer and write a paragraph, which does not directly measure their ability to explain how details support the central idea as stated in the Objective."
+          },
+          {
+            "criterion": "Pacing Realism",
+            "passed": true,
+            "score": 100,
+            "reason": ""
+          }
+        ],
+        "final_lesson_plan": "",
+        "workflow_status": "running"
+      }
+    },
+    {
+      "stage": "post-confirmation",
+      "node": "rewrite_node",
+      "update": {
+        "draft_lesson_plan": "# Lesson Plan: Florida Central Idea Analysis\n\n**Date:** 2026-06-21\n**Grade:** 5 | **Subject:** ELA | **Duration:** 45 minutes\n**Standard:** ELA.5.R.1.2 — Explain how relevant details support the central idea or theme, identified with significant textual evidence.\n\n## Essential Question\nHow do relevant details support the central idea of a text?\n\n## Objective\nStudents will explain how relevant details support the central idea.\n\n## Instructional Materials\n- Short fable\n- Slide deck\n- Informational passages\n\n## Teaching Strategies\n- Direct instruction\n- Partner work\n- Independent practice\n\n## Hook (15 min)\nAn introductory activity where the teacher reads a short fable and students identify details.\n\n## Direct Instruction (30 min)\nTeacher presents a slide deck on central ideas and details.\n\n## Guided Practice (15 min)\nStudents work in pairs to explain how specific details in two informational passages support the central idea. Each pair will discuss and write down their explanations, focusing on the connection between details and the central theme.\n\n## Independent Practice (15 min)\nStudents will read a third passage and write a detailed explanation of how specific details in the text support the central idea. They will focus on using significant textual evidence to illustrate their understanding of the connections between details and the central theme.\n\n## Assessment (15 min)\nExit ticket where students match details to central ideas.\n\n## Assignments\n- In-class paragraph\n\n## Homework Notes\n- Read for 20 minutes\n\n## Differentiation\nProvide graphic organizers for struggling students.\n\n## Teacher Reflection\nWhat worked?",
+        "revision_count": 3
+      }
+    },
+    {
+      "stage": "post-confirmation",
+      "node": "review_node",
+      "update": {
+        "review_passed": false,
+        "review_feedback": [
+          {
+            "criterion": "Standards Alignment",
+            "passed": true,
+            "score": 100,
+            "reason": ""
+          },
+          {
+            "criterion": "Objective-to-Assessment Match",
+            "passed": false,
+            "score": 0,
+            "reason": "The assessment requires matching details to central ideas, which does not directly measure the skill of explaining how details support the central idea."
+          },
+          {
+            "criterion": "Activity-to-Objective Match",
+            "passed": true,
+            "score": 100,
+            "reason": ""
+          },
+          {
+            "criterion": "Pacing Realism",
+            "passed": true,
+            "score": 100,
+            "reason": "The times for each section sum to 45 minutes, accounting for transitions."
+          }
+        ],
+        "final_lesson_plan": "",
+        "workflow_status": "running"
+      }
+    },
+    {
+      "stage": "post-confirmation",
+      "node": "auto_tweak_node",
+      "update": {
+        "draft_lesson_plan": "# Lesson Plan: Florida Central Idea Analysis\n\n**Date:** 2026-06-21  \n**Grade:** 5 | **Subject:** ELA | **Duration:** 45 minutes  \n**Standard:** ELA.5.R.1.2 — Explain how relevant details support the central idea or theme, identified with significant textual evidence.\n\n## Essential Question\nHow do relevant details support the central idea of a text?\n\n## Objective\nStudents will explain how relevant details support the central idea.\n\n## Instructional Materials\n- Short fable\n- Slide deck\n- Informational passages\n- Graphic organizers for note-taking\n\n## Teaching Strategies\n- Direct instruction\n- Partner work\n- Think-Pair-Share\n\n## Hook (15 min)\nAn introductory activity where the teacher reads a short fable and students identify details that contribute to understanding the central idea.\n\n## Direct Instruction (30 min)\nTeacher presents a slide deck on central ideas and details, illustrating how specific details in a text support its central idea with examples.\n\n## Guided Practice (15 min)\nStudents work in pairs to explain how specific details in two informational passages support the central idea. Each pair will discuss and write down their explanations, focusing on the connection between details and the central theme.\n\n## Independent Practice (15 min)\nStudents will read a third passage and write a detailed explanation of how specific details in the text support the central idea. They will focus on using significant textual evidence to demonstrate how these details contribute to the understanding of the central theme. Students will ensure their explanations highlight the role of each detail in reinforcing the central idea.\n\n## Assessment (15 min)\nExit ticket where students write a brief paragraph explaining how one significant detail supports the central idea of the passage they read during independent practice.\n\n## Assignments\n- In-class paragraph writing on a new passage, explaining how details support its central idea.\n\n## Homework Notes\n- Read for 20 minutes and identify the central idea and two supporting details in their reading.\n\n## Differentiation\nProvide graphic organizers for struggling students to help them structure their explanations. Offer additional guiding questions for those who need further support.\n\n## Teacher Reflection\nWhat worked? How effectively did students use textual evidence to support their explanations of the central idea? What adjustments are needed for future lessons to improve student understanding?",
+        "revision_count": 4
+      }
+    },
+    {
+      "stage": "post-confirmation",
+      "node": "review_node",
+      "update": {
+        "review_passed": false,
+        "review_feedback": [
+          {
+            "criterion": "Standards Alignment",
+            "passed": true,
+            "score": 100,
+            "reason": ""
+          },
+          {
+            "criterion": "Objective-to-Assessment Match",
+            "passed": true,
+            "score": 100,
+            "reason": ""
+          },
+          {
+            "criterion": "Activity-to-Objective Match",
+            "passed": false,
+            "score": 0,
+            "reason": "The Independent Practice does not provide sufficient opportunities for students to explain how details support the central idea, as it focuses solely on writing rather than discussing or analyzing the connections."
+          },
+          {
+            "criterion": "Pacing Realism",
+            "passed": true,
+            "score": 100,
+            "reason": ""
+          }
+        ],
+        "final_lesson_plan": "",
+        "workflow_status": "failed"
+      }
+    }
+  ],
+  "final_lesson_plan": ""
+}
