@@ -1,1 +1,7 @@
-PLACEHOLDER
+<div class="result-card">
+<h2>{{ result.title }}</h2>
+{% if result.is_placeholder %}<p class="notice">Pipeline wiring pending.</p>{% endif %}
+{% if result.standard_description %}<p><strong>{{ result.standard_code }}</strong>: {{ result.standard_description }}</p>{% endif %}
+<div class="plan-text">{{ result.plan_text }}</div>
+<div class="affiliate-block"><p>Helpful resources:</p></div>
+</div>
